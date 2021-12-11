@@ -1,0 +1,87 @@
+.pic1 {
+    width: 400px;
+    object-fit: scale-down;
+  
+  }
+.pic2 {
+    height: 300px;
+    object-fit: scale-down;
+  }
+
+.link {
+    font-style: italic;
+    color: blue;
+}
+
+.link2 {
+    text-decoration: underline;
+    color: rgb(3, 3, 63) ;
+}
+
+.captions {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: rgb(49, 49, 49);
+}
+
+.shpeel {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.bkgrnd {
+    background-color: rgb(238, 243, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* This explains the structure behind determining what style commands affect what components
+                 https://www.youtube.com/watch?v=mIz7KeKpkMM */
+/*
+                 body {
+                    font-family: arial, Helvetica, sans-serif;
+                    font-size: 14px;
+                    color: rgb(18, 32, 74); 
+                } 
+                
+                li {     
+                    font-size: 5px;
+                    font-style: sans-serif;
+                }
+                
+                a{ 
+                    color: navy;
+                }
+                
+                .nameImadeUp { /*This is a made up tag that I can now insert into any element rather than making it apply to all my "li" or all my "a". */
+/*                    font-weight: bold;
+                }
+                
+                .underline {text-decoration: underline;}
+                .bold { font-weight: bold;}
+                .justify{text-align: justify;} /*This makes the text fit the space it's given. You can also align "right" or "left" */
+                
+ /*               .homebg {  /*This is embedded in the head tag of my index.html page */
+ /*                   background-image: url('images/bg.png')
+                }
+                
+                
+                .background {
+                    background-image: url('images/bg.png')"
+                }
+
+
+               */
